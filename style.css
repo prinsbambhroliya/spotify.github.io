@@ -231,10 +231,7 @@ a {
 }
 
 .album_info {
-    
-    
-    
-    margin-bottom: none;
+    margin-block-end: 0;
     padding: 0 0rem 0 0.8rem;
     justify-content: flex-start;
     
