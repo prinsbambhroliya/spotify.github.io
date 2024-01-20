@@ -234,10 +234,11 @@ a {
     margin-block-end: 0;
     padding: 0 0rem 0 0.8rem;
     justify-content: flex-start;
-    
 }
-
-
+.album_info p {
+    margin-block-start: 0;
+    margin-block-end: 0.4rem;
+}
 
 .album_picture {
     margin-right: 0.5rem;
